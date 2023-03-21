@@ -1,0 +1,58 @@
+html>
+ <head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300&display=swap" rel="stylesheet">
+<link href="https://kit.fontawesome.com/f56f6708a5.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="./css/estilo.css">
+ <body>
+ <!--Bloque de Inicio-->
+</div>
+ <!--FIN Bloque Portfolio-->
+<h2>Sebastian Llaque </h2>
+            <h3>#programador</h3>
+            <h3>#musico</h3>
+<!--Fin de Bloque de Inicio-->
+<!--Bloque de Sobre Mi-->
+<div>
+<h2>Sobre mi<h2>
+<img src="./Imagenes/abaout-img.png" alt="Foto de Sebastian Llaque" height="250" >
+
+<p>Soy <strong>Sebastian Llaque</strong> soy estudiante de desarrollo de  <span>sistema, soy bien aposionado por el tema de </span> fan de las marcas gamer ultimo años</p>
+         <p> Me defino como una persona que le gusta en el mundo gamer, mi sueño es estar en el mundo marcas gamer <p>
+</div>
+        <!--FIN Del Bloque De Sobre Mi-->
+            <!--Bloque Portfolio-->
+</div>
+                <h2>Portfolio</h2>
+                <h3>El Futuro con la Inteligencia Artificial</h3>
+<table>
+<thead>
+<tr>
+ <th colspan="4">Ejemplo de portfolio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>musica</td>
+<td>produccion</td>
+<td>web</td>
+<td>diseño</td>
+<tr>
+<td>conciertos</td>
+<td>BSOs</td>
+<td>app</td>
+<td>cartel</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--FIN Bloque Portfolio-->
+<!Bloque Experiencia-->
+<div id="experiencia class"seccion">
+<h2>Experiencia& Skills</h2>
+<h3>Lorem ipsum dolor, sit amet consectetur adipisicing elitLorem ipsum dolor, sit amet consectetur adipisicing elit.Lorem ipsum dolor, sit amet consectetur adipisicing elit</h3>
+</div>
+</body>
+</html>
